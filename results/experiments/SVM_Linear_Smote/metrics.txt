@@ -1,0 +1,14 @@
+Experimento: SVM_Linear_Smote
+------------------------------
+                                                            precision    recall  f1-score   support
+
+                                      1 Applied Ergonomics       0.93      0.96      0.94       225
+                                         2 Neural Networks       0.48      0.60      0.53       493
+                        3 Expert Systems with Applications       0.87      0.73      0.79      2049
+4 Journal of Visual Communication and Image Representation       0.30      0.49      0.37       227
+                                     5 Pattern Recognition       0.53      0.54      0.53       904
+                         6 Robotics and Autonomous Systems       0.66      0.80      0.72       168
+
+                                                  accuracy                           0.67      4066
+                                                 macro avg       0.63      0.68      0.65      4066
+                                              weighted avg       0.71      0.67      0.69      4066
