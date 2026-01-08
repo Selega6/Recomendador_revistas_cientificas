@@ -1,14 +1,12 @@
-Experimento: SVM_RBF_Smote
+Experiment: SVM_RBF_Smote
 ------------------------------
-                                                            precision    recall  f1-score   support
+                                    precision    recall  f1-score   support
 
-                                      1 Applied Ergonomics       0.95      0.93      0.94       225
-                                         2 Neural Networks       0.68      0.48      0.56       493
-                        3 Expert Systems with Applications       0.81      0.87      0.84      2049
-4 Journal of Visual Communication and Image Representation       0.65      0.34      0.45       227
-                                     5 Pattern Recognition       0.59      0.67      0.63       904
-                         6 Robotics and Autonomous Systems       0.79      0.67      0.73       168
+              1 Applied Ergonomics       0.97      0.92      0.94       337
+3 Expert Systems with Applications       0.85      0.89      0.87      3073
+             5 Pattern Recognition       0.77      0.72      0.74      1356
+ 6 Robotics and Autonomous Systems       0.81      0.74      0.77       253
 
-                                                  accuracy                           0.74      4066
-                                                 macro avg       0.74      0.66      0.69      4066
-                                              weighted avg       0.74      0.74      0.74      4066
+                          accuracy                           0.84      5019
+                         macro avg       0.85      0.82      0.83      5019
+                      weighted avg       0.84      0.84      0.84      5019
